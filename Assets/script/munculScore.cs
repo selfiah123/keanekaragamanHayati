@@ -1,18 +1,3 @@
-using System.Collections;
-using System.Collections.Generic;
-using UnityEngine;
-
-public class munculScore : MonoBehaviour
-{
-    public Animator anim;
-    public GameObject CanvasHasil;
-
-   void Update(){
-        if(CanvasHasil.activeSelf ==true)
-    {
-        anim.SetTrigger("munculSkor");
-    }
-    }
-
-
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:0457b31e5824299037572fab1fba82fb90bb252a3e39451675fd0004b1ebe033
+size 305

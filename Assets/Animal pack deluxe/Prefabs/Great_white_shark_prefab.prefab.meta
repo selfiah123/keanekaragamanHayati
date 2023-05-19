@@ -1,11 +1,3 @@
-fileFormatVersion: 2
-guid: bc3dd29916ce9d3419aba44d0d5bc872
-labels:
-- animals
-timeCreated: 1503921936
-licenseType: Store
-NativeFormatImporter:
-  mainObjectFileID: 100100000
-  userData: 
-  assetBundleName: 
-  assetBundleVariant: 
+version https://git-lfs.github.com/spec/v1
+oid sha256:e51000e70284f993789d9a7693c1a58b761e2d83ba26bda83cc483283757cca3
+size 229

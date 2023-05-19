@@ -1,20 +1,3 @@
-using System.Collections;
-using System.Collections.Generic;
-using UnityEngine;
-using UnityEngine.UI;
-using TMPro;
-
-public class score : MonoBehaviour
-{
-    // Start is called before the first frame update
-    void Start()
-    {
-        PlayerPrefs.SetInt("skor", 0);
-    }
-
-    // Update is called once per frame
-    void Update()
-    {
-        GetComponent<TextMeshProUGUI>().text = PlayerPrefs.GetInt("skor").ToString();
-    }
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:c97295e86dd05cb0405dd8afc82c7627e8ae3ca5dc519699123c3c2a7e388583
+size 431
