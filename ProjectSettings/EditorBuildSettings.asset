@@ -14,4 +14,10 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/materi.unity
     guid: f8b83e930449c154586df56a5c65b16b
+  - enabled: 1
+    path: Assets/Scenes/Quiz.unity
+    guid: ecf3934b5059d4abb9c26339d3d373b1
+  - enabled: 1
+    path: Assets/Scenes/scanAR.unity
+    guid: e9141732e06333e4f80679ab70bf7f55
   m_configObjects: {}
