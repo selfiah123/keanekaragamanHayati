@@ -20,4 +20,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/scanAR.unity
     guid: e9141732e06333e4f80679ab70bf7f55
+  - enabled: 1
+    path: Assets/Scenes/tingkatekosistem.unity
+    guid: fae597c7d481a49c195fdd51886a292e
   m_configObjects: {}
