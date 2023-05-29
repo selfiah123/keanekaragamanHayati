@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="tingkat_spesies" size="100.000000 136.245514" />
+    <ImageTarget name="ekosistem" size="100.000000 137.589600" />
+    <ImageTarget name="tingkat_gen" size="100.000000 136.245514" />
+  </Tracking>
+</QCARConfig>
